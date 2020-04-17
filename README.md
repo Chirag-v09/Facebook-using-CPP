@@ -1,3 +1,3 @@
 # Facebook-using-CPP
-Write I'm working on this project, Not yet Completed.
-I make a CPP Project where I add some functionallity of facebook like login and register page.
+I'm working on this project, Not Completed Yet.
+I make a C++ Project where I add some functionallity of facebook like login page and register page, modification etc.
